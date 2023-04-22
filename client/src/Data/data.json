@@ -1,0 +1,59 @@
+{
+    "_id" : "5c8d0c505653de3985aa0ff",
+    "name" : "Fahim",
+    "description" : "Rato elétrico bem fofinho",
+    "role" : "atacante",
+    "createdAt" : "2016-06-07T03:50:56.838Z",
+    "modifiedAt" : "2016-06-07T03:50:56.838Z",
+    "permissions" : [
+        {
+            "_id": "5c8d0c505653de3985aa0ff",
+            "resourceName": "dashboard",
+            "resourceType": "menu",
+            "isAllowed": true,
+            "isDisabled": false
+        },
+        {
+            "_id": "5c8d0c505653de3985aa1ff",
+            "resourceName": "product",
+            "resourceType": "menu",
+            "isAllowed": true,
+            "isDisabled": false
+        },
+        {
+            "_id": "5c8d0c505653ee3935aa1ff",
+            "resourceName": "role",
+            "resourceType": "menu",
+            "isAllowed": true,
+            "isDisabled": false
+        },
+        {
+            "_id": "5c8d0c505653de5985aa1fc",
+            "resourceName": "user",
+            "resourceType": "menu",
+            "isAllowed": true,
+            "isDisabled": false
+        },
+        {
+            "_id": "5c8d0c505653de39c5bb1ff",
+            "resourceName": "resource",
+            "resourceType": "menu",
+            "isAllowed": true,
+            "isDisabled": false
+        },
+        {
+            "_id": "5c8d7c505353ee3985aa1ff",
+            "resourceName": "permission",
+            "resourceType": "menu",
+            "isAllowed": true,
+            "isDisabled": false
+        },
+        {
+            "_id": "5c8d0c505653de3985aa0f1",
+            "resourceName": "customer-edit-button",
+            "resourceType": "button",
+            "isAllowed": true,
+            "isDisabled": true
+        }
+    ]
+}
